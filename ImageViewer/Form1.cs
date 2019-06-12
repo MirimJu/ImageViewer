@@ -15,5 +15,10 @@ namespace ImageViewer
         {
             InitializeComponent();
         }
+
+        private void LalNum_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
